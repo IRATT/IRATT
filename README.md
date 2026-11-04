@@ -22,6 +22,20 @@ I connect **engineering judgment, data science and digital strategy** to make co
 
 [View recognition details and the related coursework →](https://iratt.github.io/MIT-AI-ML/credentials.html)
 
+### Program takeaways: data in context, decisions with value
+
+My central takeaway is to **use data in context to inform business decisions and create economic value**. The program connected five capabilities:
+
+- **Data visualization & statistics:** understand patterns, variation and uncertainty.
+- **Predictive modeling:** estimate outcomes and evaluate the consequences of prediction errors.
+- **Optimization:** choose feasible actions against clear objectives and constraints.
+- **Advanced predictive modeling:** assess nonlinear relationships and the value of added complexity.
+- **Deep learning:** use images, language and learned representations within validated workflows.
+
+I bring these together by framing the decision, examining the evidence, validating the method and measuring results—with fairness, safety and human accountability built into the application.
+
+[Read my program reflection and explore the supporting modules →](https://iratt.github.io/MIT-AI-ML/learning.html)
+
 ### Selected work
 
 | Case study | Decision and contribution |
