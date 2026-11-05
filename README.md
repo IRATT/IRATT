@@ -5,12 +5,12 @@ I connect engineering judgment, advanced analytics and responsible AI to busines
 **MIT xPRO Professional Certificate in Advanced Analytics with AI, ML, and Data Science**  
 **100% across 24 modules · 813/813 points · 144 graded activities**
 
-| Explore the portfolio | What you’ll find |
-| --- | --- |
-| [Overview →](https://iratt.github.io/MIT-AI-ML/) | Program takeaways, completion certificate and two exemplary-assignment awards. |
-| [Projects →](https://iratt.github.io/MIT-AI-ML/projects.html) | Production optimization, network logistics, clinical AI and alarm intelligence. |
-| [Course record →](https://iratt.github.io/MIT-AI-ML/course.html) | All 24 modules, key learning and final grades in one concise table. |
+**[Explore my portfolio →](https://iratt.github.io/MIT-AI-ML/)**
+
+One continuous page brings together the key takeaways, four selected projects, the completion certificate and two exemplary-assignment awards. Expand the course record to see all 24 modules and final grades.
+
+[Projects](https://iratt.github.io/MIT-AI-ML/#projects) · [Recognition](https://iratt.github.io/MIT-AI-ML/#recognition) · [Expandable course record](https://iratt.github.io/MIT-AI-ML/#course-record)
 
 My central takeaway: **use data in context to inform decisions and create economic value.**
 
-Final recorded grades include accepted resubmissions. Project figures are educational model results; proposed operational applications are identified separately. [Evidence & authorship](https://iratt.github.io/MIT-AI-ML/course.html#evidence).
+Final recorded grades include accepted resubmissions. Project figures are educational model results; proposed operational applications are identified separately. [Evidence & authorship](https://iratt.github.io/MIT-AI-ML/#evidence).
