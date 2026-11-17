@@ -1,16 +1,20 @@
-<img src="assets/profile-banner.svg" alt="Ian Alleyne, PhD, MBA — Applied AI and advanced analytics. 100% across all 24 MIT xPRO course modules." width="100%">
+# Ian Alleyne, PhD, MBA
 
-I connect engineering judgment, advanced analytics and responsible AI to business decisions in healthcare and critical infrastructure.
+Engineering, analytics and critical infrastructure.
 
-**MIT xPRO Professional Certificate in Advanced Analytics with AI, ML, and Data Science**  
-**100% across 24 modules · 813/813 points · 144 graded activities**
+I connect engineering judgment, advanced analytics and responsible AI to practical decisions in healthcare and critical infrastructure.
 
-**[Explore my portfolio →](https://iratt.github.io/MIT-AI-ML/)**
+## Professional learning portfolios
 
-One continuous page brings together the key takeaways, four selected projects, the completion certificate and two exemplary-assignment awards. Expand the course record to see all 24 modules and final grades.
+**[Explore my four-course portfolio hub →](https://iratt.github.io/MIT-AI-ML/portfolio.html)**
 
-[Projects](https://iratt.github.io/MIT-AI-ML/#projects) · [Recognition](https://iratt.github.io/MIT-AI-ML/#recognition) · [Expandable course record](https://iratt.github.io/MIT-AI-ML/#course-record)
+| Program | Achievement | Portfolio |
+| --- | --- | --- |
+| MIT xPRO — Advanced Analytics with AI, ML, and Data Science | 6 months · 100% across all 24 modules | [Explore](https://iratt.github.io/MIT-AI-ML/) |
+| The BACnet Institute — BACnet Basics | Completed · 6 lessons | [Explore](https://iratt.github.io/MIT-AI-ML/bacnet.html) |
+| Schneider Electric University — Data Center Certified Associate Exam Learning Path | Completion certificate · 14 modules | [Explore](https://iratt.github.io/MIT-AI-ML/schneider.html) |
+| CNet Training — Certified Data Centre Design Professional | CDCDP® awarded 16 November 2026 | [Explore](https://iratt.github.io/MIT-AI-ML/cdcdp.html) |
 
-My central takeaway: **use data in context to inform decisions and create economic value.**
+Each portfolio brings together key takeaways, practical applications and an expandable course record. Source and credential details are included on each page.
 
-Final recorded grades include accepted resubmissions. Project figures are educational model results; proposed operational applications are identified separately. [Evidence & authorship](https://iratt.github.io/MIT-AI-ML/#evidence).
+**My approach:** understand the data, connect the systems and design for the service.
